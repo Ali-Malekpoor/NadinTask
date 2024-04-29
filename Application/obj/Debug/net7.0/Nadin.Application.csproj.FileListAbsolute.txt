@@ -1,0 +1,17 @@
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\obj\Debug\net7.0\Nadin.Application.csproj.AssemblyReference.cache
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\obj\Debug\net7.0\Nadin.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\obj\Debug\net7.0\Nadin.Application.AssemblyInfoInputs.cache
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\obj\Debug\net7.0\Nadin.Application.AssemblyInfo.cs
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\obj\Debug\net7.0\Nadin.Application.csproj.CoreCompileInputs.cache
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\bin\Debug\net7.0\Nadin.Application.deps.json
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\bin\Debug\net7.0\Nadin.Application.dll
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\bin\Debug\net7.0\Nadin.Application.pdb
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\bin\Debug\net7.0\Nadin.Domain.dll
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\bin\Debug\net7.0\Nadin.Persistence.dll
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\bin\Debug\net7.0\Nadin.Domain.pdb
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\bin\Debug\net7.0\Nadin.Persistence.pdb
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\obj\Debug\net7.0\Nadin.Application.csproj.CopyComplete
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\obj\Debug\net7.0\Nadin.Application.dll
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\obj\Debug\net7.0\refint\Nadin.Application.dll
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\obj\Debug\net7.0\Nadin.Application.pdb
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Application\obj\Debug\net7.0\ref\Nadin.Application.dll

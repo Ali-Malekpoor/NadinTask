@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Nadin.Domain\Nadin.Domain.csproj" />
+    <ProjectReference Include="..\Persistence\Nadin.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

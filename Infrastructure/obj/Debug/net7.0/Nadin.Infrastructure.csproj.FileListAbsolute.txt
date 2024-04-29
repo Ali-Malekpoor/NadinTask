@@ -1,0 +1,11 @@
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Infrastructure\bin\Debug\net7.0\Nadin.Infrastructure.deps.json
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Infrastructure\bin\Debug\net7.0\Nadin.Infrastructure.dll
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Infrastructure\bin\Debug\net7.0\Nadin.Infrastructure.pdb
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Infrastructure\obj\Debug\net7.0\Nadin.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Infrastructure\obj\Debug\net7.0\Nadin.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Infrastructure\obj\Debug\net7.0\Nadin.Infrastructure.AssemblyInfo.cs
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Infrastructure\obj\Debug\net7.0\Nadin.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Infrastructure\obj\Debug\net7.0\Nadin.Infrastructure.dll
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Infrastructure\obj\Debug\net7.0\refint\Nadin.Infrastructure.dll
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Infrastructure\obj\Debug\net7.0\Nadin.Infrastructure.pdb
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Infrastructure\obj\Debug\net7.0\ref\Nadin.Infrastructure.dll

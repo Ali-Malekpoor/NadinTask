@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Nadin</name>
+    </assembly>
+    <members>
+        <member name="M:Nadin.Controllers.ProductController.Get">
+            <summary>
+            لیست محصولات ها رو دریافت کنید
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Nadin.Controllers.ProductController.Get(System.Int32)">
+            <summary>
+             محصول رو دریافت کنید
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Nadin.Controllers.ProductController.Post(Nadin.Domain.DTOs.CreateProductDTO)">
+            <summary>
+             محصول رو ایجاد کنید
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Nadin.Controllers.ProductController.Put(Nadin.Domain.DTOs.UpdateProductDTO)">
+            <summary>
+             محصول رو ویرایش کنید
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Nadin.Controllers.ProductController.Delete(System.Int64)">
+            <summary>
+             محصول رو حذف کنید
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

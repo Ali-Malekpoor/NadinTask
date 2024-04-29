@@ -1,0 +1,17 @@
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\bin\Debug\net7.0\Nadin.Persistence.deps.json
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\bin\Debug\net7.0\Nadin.Persistence.runtimeconfig.json
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\bin\Debug\net7.0\Nadin.Persistence.dll
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\bin\Debug\net7.0\Nadin.Persistence.pdb
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\bin\Debug\net7.0\Nadin.Domain.dll
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\bin\Debug\net7.0\Nadin.Domain.pdb
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\obj\Debug\net7.0\Nadin.Persistence.csproj.AssemblyReference.cache
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\obj\Debug\net7.0\Nadin.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\obj\Debug\net7.0\Nadin.Persistence.AssemblyInfoInputs.cache
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\obj\Debug\net7.0\Nadin.Persistence.AssemblyInfo.cs
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\obj\Debug\net7.0\Nadin.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\obj\Debug\net7.0\Nadin.Persistence.csproj.CopyComplete
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\obj\Debug\net7.0\Nadin.Persistence.dll
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\obj\Debug\net7.0\refint\Nadin.Persistence.dll
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\obj\Debug\net7.0\Nadin.Persistence.pdb
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\obj\Debug\net7.0\Nadin.Persistence.genruntimeconfig.cache
+C:\Users\A R T A\OneDrive\Desktop\Nadin Task\Nadin\Persistence\obj\Debug\net7.0\ref\Nadin.Persistence.dll
