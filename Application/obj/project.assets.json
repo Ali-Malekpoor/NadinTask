@@ -125,11 +125,11 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore/7.0.18": {
+      "Microsoft.EntityFrameworkCore/7.0.20": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Abstractions": "7.0.18",
-          "Microsoft.EntityFrameworkCore.Analyzers": "7.0.18",
+          "Microsoft.EntityFrameworkCore.Abstractions": "7.0.20",
+          "Microsoft.EntityFrameworkCore.Analyzers": "7.0.20",
           "Microsoft.Extensions.Caching.Memory": "7.0.0",
           "Microsoft.Extensions.DependencyInjection": "7.0.0",
           "Microsoft.Extensions.Logging": "7.0.0"
@@ -148,7 +148,7 @@
           "buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Abstractions/7.0.18": {
+      "Microsoft.EntityFrameworkCore.Abstractions/7.0.20": {
         "type": "package",
         "compile": {
           "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
@@ -161,7 +161,7 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.Analyzers/7.0.18": {
+      "Microsoft.EntityFrameworkCore.Analyzers/7.0.20": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/_._": {}
@@ -170,10 +170,10 @@
           "lib/netstandard2.0/_._": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Relational/7.0.18": {
+      "Microsoft.EntityFrameworkCore.Relational/7.0.20": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "7.0.18",
+          "Microsoft.EntityFrameworkCore": "7.0.20",
           "Microsoft.Extensions.Configuration.Abstractions": "7.0.0"
         },
         "compile": {
@@ -187,11 +187,11 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.SqlServer/7.0.18": {
+      "Microsoft.EntityFrameworkCore.SqlServer/7.0.20": {
         "type": "package",
         "dependencies": {
           "Microsoft.Data.SqlClient": "5.1.5",
-          "Microsoft.EntityFrameworkCore.Relational": "7.0.18"
+          "Microsoft.EntityFrameworkCore.Relational": "7.0.20"
         },
         "compile": {
           "lib/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {
@@ -996,19 +996,19 @@
           "bin/placeholder/Nadin.Domain.dll": {}
         }
       },
-      "Nadin.Persistence/1.0.0": {
+      "Nadin.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "7.0.18",
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.18",
+          "Microsoft.EntityFrameworkCore": "7.0.20",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.20",
           "Nadin.Domain": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Nadin.Persistence.dll": {}
+          "bin/placeholder/Nadin.Infrastructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Nadin.Persistence.dll": {}
+          "bin/placeholder/Nadin.Infrastructure.dll": {}
         }
       }
     }
@@ -1226,10 +1226,10 @@
         "runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll"
       ]
     },
-    "Microsoft.EntityFrameworkCore/7.0.18": {
-      "sha512": "zk4JC8m9T55dwtqBnnXar1jtI7q4bZuSo3PI8/Iq7QbVk0D2Yrvx0mZJb/5tj8O+ghwT56XzDuN3641iumXqmg==",
+    "Microsoft.EntityFrameworkCore/7.0.20": {
+      "sha512": "Wvmktob+dBPvMZdTj2yRrfDi3ERL/RRcE8EWjr3DuIjWn+6giqD81+oNM/09IthwZ3IsSMHgpiVVmTwAW92gEQ==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore/7.0.18",
+      "path": "microsoft.entityframeworkcore/7.0.20",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1237,63 +1237,63 @@
         "buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props",
         "lib/net6.0/Microsoft.EntityFrameworkCore.dll",
         "lib/net6.0/Microsoft.EntityFrameworkCore.xml",
-        "microsoft.entityframeworkcore.7.0.18.nupkg.sha512",
+        "microsoft.entityframeworkcore.7.0.20.nupkg.sha512",
         "microsoft.entityframeworkcore.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Abstractions/7.0.18": {
-      "sha512": "KCEaYiYM6bVGKo/dLRDkXn1zZ1Vn6f4uG0nb2iis/jCju16hUOX/GAOLx1FhD2cIQcHRvtmYFZnm5/anHFdhtg==",
+    "Microsoft.EntityFrameworkCore.Abstractions/7.0.20": {
+      "sha512": "ds6XFVrh34AWYAedlMo8tVkmxsxyXnwP0N6FTjlq4p1oR6TQktIabUDkSMKgStVYt4c4b4Rus3H/Oad9I4uSlQ==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.abstractions/7.0.18",
+      "path": "microsoft.entityframeworkcore.abstractions/7.0.20",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll",
         "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.xml",
-        "microsoft.entityframeworkcore.abstractions.7.0.18.nupkg.sha512",
+        "microsoft.entityframeworkcore.abstractions.7.0.20.nupkg.sha512",
         "microsoft.entityframeworkcore.abstractions.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Analyzers/7.0.18": {
-      "sha512": "qD7GuyGVQvndDJdYbv5UTuxJeeH/cVS1VBz3ZY72yCYKnSEx9hpiokCji1bgy9cHA1rPNjI7OA7ZrDOeojMtOA==",
+    "Microsoft.EntityFrameworkCore.Analyzers/7.0.20": {
+      "sha512": "doouHLWFcYcd08QUh9+4aZu3sk4WySp/aSOHeIzNhMJ58ESQXUAGDvB1sjJ4HmE0tmCea51NGzgtHE5IBmFLGg==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.analyzers/7.0.18",
+      "path": "microsoft.entityframeworkcore.analyzers/7.0.20",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "analyzers/dotnet/cs/Microsoft.EntityFrameworkCore.Analyzers.dll",
         "lib/netstandard2.0/_._",
-        "microsoft.entityframeworkcore.analyzers.7.0.18.nupkg.sha512",
+        "microsoft.entityframeworkcore.analyzers.7.0.20.nupkg.sha512",
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Relational/7.0.18": {
-      "sha512": "19T8HjEkqyvuPf6C3WPM1B0h10/ezf/+KHPFQxp8ODHN3YKjV/5tKyuZyjRULa3EcfTW4TiaOqPIfs5WSVfwYw==",
+    "Microsoft.EntityFrameworkCore.Relational/7.0.20": {
+      "sha512": "25GWyYLMm4T+iuxJLhXR/GTzeYR7tIhYUOCIaWkSFTI4FB39yQz8wg5EfyhPUL4Jfhjk94X+yFsff/HoNaCVIA==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.relational/7.0.18",
+      "path": "microsoft.entityframeworkcore.relational/7.0.20",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/net6.0/Microsoft.EntityFrameworkCore.Relational.dll",
         "lib/net6.0/Microsoft.EntityFrameworkCore.Relational.xml",
-        "microsoft.entityframeworkcore.relational.7.0.18.nupkg.sha512",
+        "microsoft.entityframeworkcore.relational.7.0.20.nupkg.sha512",
         "microsoft.entityframeworkcore.relational.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.SqlServer/7.0.18": {
-      "sha512": "T+9VaST+wq8s7vUURTUY0B8o0APwtmXplYqB4U7IAK8ufOrJlC6UGXtxBa+WIOXXv+R4q7X31gMI4n+fbsnGOA==",
+    "Microsoft.EntityFrameworkCore.SqlServer/7.0.20": {
+      "sha512": "ukRrvvgDRbs5At/4zQv84gxi+arXvuwRvUHL1cQOdWyOAvSBBieVSmbFhR8ihbbE1Czo3MduxJ+eF2ztHVYC3A==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.sqlserver/7.0.18",
+      "path": "microsoft.entityframeworkcore.sqlserver/7.0.20",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll",
         "lib/net6.0/Microsoft.EntityFrameworkCore.SqlServer.xml",
-        "microsoft.entityframeworkcore.sqlserver.7.0.18.nupkg.sha512",
+        "microsoft.entityframeworkcore.sqlserver.7.0.20.nupkg.sha512",
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
@@ -2723,32 +2723,37 @@
       "path": "../Nadin.Domain/Nadin.Domain.csproj",
       "msbuildProject": "../Nadin.Domain/Nadin.Domain.csproj"
     },
-    "Nadin.Persistence/1.0.0": {
+    "Nadin.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../Persistence/Nadin.Persistence.csproj",
-      "msbuildProject": "../Persistence/Nadin.Persistence.csproj"
+      "path": "../Infrastructure/Nadin.Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/Nadin.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Nadin.Domain >= 1.0.0",
-      "Nadin.Persistence >= 1.0.0"
+      "Nadin.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\A R T A\\.nuget\\packages\\": {}
+    "C:\\Users\\A R T A\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A R T A\\OneDrive\\Desktop\\Nadin Task\\Nadin\\Application\\Nadin.Application.csproj",
+      "projectUniqueName": "C:\\Users\\A R T A\\OneDrive\\Desktop\\New folder\\NadinTask\\Application\\Nadin.Application.csproj",
       "projectName": "Nadin.Application",
-      "projectPath": "C:\\Users\\A R T A\\OneDrive\\Desktop\\Nadin Task\\Nadin\\Application\\Nadin.Application.csproj",
+      "projectPath": "C:\\Users\\A R T A\\OneDrive\\Desktop\\New folder\\NadinTask\\Application\\Nadin.Application.csproj",
       "packagesPath": "C:\\Users\\A R T A\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A R T A\\OneDrive\\Desktop\\Nadin Task\\Nadin\\Application\\obj\\",
+      "outputPath": "C:\\Users\\A R T A\\OneDrive\\Desktop\\New folder\\NadinTask\\Application\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\A R T A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2762,11 +2767,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\A R T A\\OneDrive\\Desktop\\Nadin Task\\Nadin\\Nadin.Domain\\Nadin.Domain.csproj": {
-              "projectPath": "C:\\Users\\A R T A\\OneDrive\\Desktop\\Nadin Task\\Nadin\\Nadin.Domain\\Nadin.Domain.csproj"
+            "C:\\Users\\A R T A\\OneDrive\\Desktop\\New folder\\NadinTask\\Infrastructure\\Nadin.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\A R T A\\OneDrive\\Desktop\\New folder\\NadinTask\\Infrastructure\\Nadin.Infrastructure.csproj"
             },
-            "C:\\Users\\A R T A\\OneDrive\\Desktop\\Nadin Task\\Nadin\\Persistence\\Nadin.Persistence.csproj": {
-              "projectPath": "C:\\Users\\A R T A\\OneDrive\\Desktop\\Nadin Task\\Nadin\\Persistence\\Nadin.Persistence.csproj"
+            "C:\\Users\\A R T A\\OneDrive\\Desktop\\New folder\\NadinTask\\Nadin.Domain\\Nadin.Domain.csproj": {
+              "projectPath": "C:\\Users\\A R T A\\OneDrive\\Desktop\\New folder\\NadinTask\\Nadin.Domain\\Nadin.Domain.csproj"
             }
           }
         }

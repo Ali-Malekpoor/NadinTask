@@ -19,7 +19,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Application\Nadin.Application.csproj" />
-    <ProjectReference Include="..\Persistence\Nadin.Persistence.csproj" />
   </ItemGroup>
 
 </Project>

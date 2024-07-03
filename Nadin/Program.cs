@@ -1,6 +1,7 @@
 
+
 using Microsoft.EntityFrameworkCore;
-using Nadin.Persistence.AppDbContext;
+using Nadin.Infrastructure.DataBaseContext;
 
 namespace Nadin
 {
@@ -21,7 +22,7 @@ namespace Nadin
             });
 
             
-            builder.Services.AddDbContext<NadinDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("NadinDbContext")));
+            builder.Services.AddDbContext<NadinDbContext>();
 
             var app = builder.Build();
 

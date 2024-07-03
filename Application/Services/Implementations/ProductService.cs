@@ -1,7 +1,7 @@
 ﻿using Nadin.Application.Services.Interfaces;
 using Nadin.Domain.DTOs;
 using Nadin.Domain.Entities;
-using Nadin.Persistence.AppDbContext;
+using Nadin.Infrastructure.DataBaseContext;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;

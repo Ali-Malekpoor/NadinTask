@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AN7qz3k8rDC2/s5yfQGyrzGtUImLQbtOmAXMsFFo98OmPhGIErv1JXqzY1LE6Z85BTTaHxNyj1+h9Wx4pV33Gw==",
+  "dgSpecHash": "3C9umYFfsiEjORUw0+cYB2Y+yGUJuVa6TQOxJgx2FUi6uNqeByZiaFtT6wyXSYHr5qCT/Q1Yt3g8gr5N3j2xIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A R T A\\OneDrive\\Desktop\\Nadin Task\\Nadin\\Persistence\\Nadin.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\A R T A\\OneDrive\\Desktop\\New folder\\NadinTask\\Persistence\\Nadin.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A R T A\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\A R T A\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
